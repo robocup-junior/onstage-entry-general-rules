@@ -17,7 +17,9 @@ RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 *Minimum Team Size*: Teams must consist of at least 2 members. +
 
 *Maximum Team Size*:
+
 * Soccer and Rescue Leagues: 4 members.
+
 * OnStage League: 5 members.
 
 *Shared Members and Robots*: No team member(s) or robot(s) may be
@@ -26,11 +28,14 @@ shared between teams.
 ==== Team Members
 
 *Age Requirements for RoboCupJunior International Tournaments*:
+
 * Minimum age: 14 years old.
+
 * Maximum age: 19 years old.
+
 * Age is counted as of July 1st for the international event each year.
 
-*Entry Leagues*: RoboCupJunior Entry leagues and other ``Primary''
+*Entry Leagues*: RoboCupJunior Entry leagues and other "Primary"
 divisions (where minimum age may vary) are not run at the international
 competition but feature in many regions and SuperRegional tournaments.
 
@@ -56,24 +61,32 @@ rules to ensure they meet their specific requirements.
 ==== Safety and Power Requirements
 
 *Electrical Power*:
+
 * Robots must not use mains electricity.
+
 * Maximum allowed voltage: 48V DC or 25V AC RMS.
+
 * Voltage must be easily measured during inspections, and measuring
 points must be covered for safety or designed with safety considerations
 in place.
 
 
 *Battery Safety*:
+
 * Lithium batteries must be stored in safety bags, and charging must be
 supervised by team members in competition areas.
+
 * Teams must follow safety protocols, including battery fire handling
 and evacuation procedures.
 
 *Robot Safety Design*:
+
 * *Power Management*: Secure batteries, safe wiring, and emergency stop
-functionality. +
+functionality.
+
 * *Mechanical Safety*: No sharp edges, pinch points, or other hazards.
-Actuators must be appropriate for the robot’s size and function. +
+Actuators must be appropriate for the robot’s size and function.
+
 * *Hazardous Behavior*: Teams must report potentially dangerous robot
 behaviors at least two weeks before the event.
 
@@ -84,7 +97,7 @@ with judges, teams, and the public. Posters will be hung in public
 competition areas in the venue and digital copies or photographs will be
 shared by RCJ after the competition.
 
-*Size*: Posters must be no larger than A1 size (60 x 84 cm). +
+*Size*: Posters must be no larger than A1 size (60 x 84 cm).
 
 *Content*: Posters should summarize design documents and present the
 robot’s capabilities in an engaging format.
@@ -92,14 +105,18 @@ robot’s capabilities in an engaging format.
 ==== Technical Description Video (See League Documentation)
 
 *Content*:
+
 * *Robotic Demonstration*: Show fully functional robot systems to
-highlight technical aspects. +
+highlight technical aspects.
+
 * *Design Process*: Explain design choices and team problem-solving
-approaches. +
+approaches.
+
 * *Presentation*: Clear and high-quality, explaining innovative or
-unusual techniques. +
+unusual techniques.
+
 * *Innovation & Sustainability*: Highlight new technologies and
-sustainable practices. +
+sustainable practices.
 
 *Submission*: Guidelines will specify video length and deadlines per
 league.
@@ -128,12 +145,17 @@ complete solutions from others. Always pay attention to licensing rules.
 materials used. 
 
 *Details*: The BOM must include:
-* Component name/description (e.g., part number). +
+
+* Component name/description (e.g., part number).
+
 * Supplier/source of the component (including PCBs/machined
-components). +
-* Status (new/reused). +
-* Kit or custom-built. +
-* Price. +
+components).
+
+* Status (new/reused).
+
+* Kit or custom-built.
+
+* Price.
 
 *Template*: A standardized BOM template will be provided with the
 league documentation submissions for the international competition.
