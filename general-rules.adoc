@@ -1,7 +1,5 @@
 == RoboCupJunior International 2025 General Rules
 
-'''''
-
 These rules apply to the international RoboCupJunior competition.
 However, regional, super-regional, and local tournaments may have
 variations or adaptations to these rules to suit their specific
