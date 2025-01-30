@@ -129,13 +129,14 @@ https://github.com/robocup-junior
 licensing rules. The focus should remain on personal growth and
 learning.
 
-==== Plagiarism Guidelines
+==== Mentoring, Sponsorships and Component Reuse
 
-*External Code Use*: Teams are allowed to use external code but must
-credit the original creators.
-
-*Learning Priority*: Teams should prioritize learning and not use
-complete solutions from others. Always pay attention to licensing rules.
+Support from other teams, mentors, teachers, parents, sponsors, internet
+communities etc. is a core part of how teams learn and grow. To ensure fair
+competition and maximize learning it is required that none of the support they
+receive does the work of competing for the team. A good indication is the team's
+ability to explain not only what their robots' components do but also how they
+do it.
 
 ==== Bill of Materials (BOM)
 
