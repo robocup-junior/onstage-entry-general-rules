@@ -23,15 +23,18 @@ RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 *Shared Members and Robots*: No team member(s) or robot(s) may be
 shared between teams.
 
+*Junior Mentor Requirement*: Each Junior team must have at least 
+one Junior Mentor registered and attending with the team.
+
+==== Age Requirements
+
+*Junior Student Members:* Must be between 14 and 19 years old as of
+July 1 of the competition year.
+
+*Junior Mentors and Parent/Chaperones:* Must be 19 years or older as
+of the competition start date.
+
 ==== Team Members
-
-*Age Requirements for RoboCupJunior International Tournaments*:
-
-* Minimum age: 14 years old.
-
-* Maximum age: 19 years old.
-
-* Age is counted as of July 1st for the international event each year.
 
 *Entry Leagues*: RoboCupJunior Entry leagues and other "Primary"
 divisions (where minimum age may vary) are not run at the international
