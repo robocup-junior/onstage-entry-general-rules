@@ -11,8 +11,10 @@ If teams are unsure about any aspects of the General Rules or specific
 League Rules, they are encouraged to inquire via the official
 RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 
+=== Team requirements
+
 ==== Team Size
-*Minimum Team Size*: Teams must consist of at least 2 members. +
+*Minimum Team Size*: Teams must consist of at least 2 members.
 
 *Maximum Team Size*:
 
@@ -43,6 +45,8 @@ competition but feature in many regions and SuperRegional tournaments.
 *Technical Roles*: Every team member must have a defined technical
 role (mechanical/design, electrical/sensing, software etc.) and should
 be able to explain their role during technical judging.
+
+=== Robot Requirements
 
 ==== Robot Communication
 
@@ -90,6 +94,8 @@ Actuators must be appropriate for the robot’s size and function.
 
 * *Hazardous Behavior*: Teams must report potentially dangerous robot
 behaviors at least two weeks before the event.
+
+=== Documentation and Sharing requirements
 
 ==== RCJ Team Posters
 
@@ -160,3 +166,32 @@ components).
 
 *Template*: A standardized BOM template will be provided with the
 league documentation submissions for the international competition.
+
+=== Spirit and Behavior
+
+==== Behavior
+
+All participants are expected to behave themselves and be considerate and polite
+especially but not only towards other participants, volunteers, referees and
+organizers of all Junior and Major Leagues as well as the host venue.
+
+==== Mentoring, Sponsorships and Component Reuse
+
+Support from other teams, mentors, teachers, parents, sponsors, internet
+communities etc. is a core part of how teams learn and grow. To ensure fair
+competition and maximize learning it is required that none of the support they
+receive does the work of competing for the team. A good indication is the team's
+ability to explain not only what their robots' components do but also how they
+do it.
+
+==== Onsite help
+
+Teams are only allowed to receive help from other teams during the competition.
+To this end only student team members are allowed into the student work area
+except with temporary organizer permission. Anyone else is forbidden from
+touching the robots or their code, especially for repairs, changes, programming.
+
+==== Violations
+
+Teams that repeatedly conduct themselves in an unacceptable way may be
+disqualified from the tournament and asked to leave the venue.
