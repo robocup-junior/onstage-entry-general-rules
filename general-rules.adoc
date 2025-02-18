@@ -58,7 +58,7 @@ output does not exceed 100 mW EIRP under any circumstances.
 communication. Spectrum availability is not guaranteed.
 
 *Component Communication*: Communication between components of the
-same robot is permitted under the general guidelines.
+same robot is permitted.
 
 *League Adaptability*: Each league may modify the robot communication
 rules to ensure they meet their specific requirements.
