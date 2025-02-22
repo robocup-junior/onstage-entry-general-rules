@@ -1,7 +1,6 @@
 == RoboCupJunior International 2025 General Rules
 
-These rules apply to the international RoboCupJunior competition.
-However, regional, super-regional, and local tournaments may have
+Please note, that regional, super-regional, and local tournaments may have
 variations or adaptations to these rules to suit their specific
 competition needs. It is important to check with the organizers of the
 tournaments you are participating in to confirm which exact rules will
@@ -16,12 +15,6 @@ RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 ==== Team Size
 *Minimum Team Size*: Teams must consist of at least 2 members.
 
-*Maximum Team Size*:
-
-* Soccer and Rescue Leagues: 4 members.
-
-* OnStage League: 5 members.
-
 *Shared Members and Robots*: No team member(s) or robot(s) may be
 shared between teams.
 
@@ -29,9 +22,6 @@ shared between teams.
 one Junior Mentor registered and attending with the team.
 
 ==== Age Requirements
-
-*Junior Student Members:* Must be between 14 and 19 years old as of
-July 1 of the competition year.
 
 *Junior Mentors and Parent/Chaperones:* Must be 19 years or older as
 of the competition start date.
@@ -59,9 +49,6 @@ communication. Spectrum availability is not guaranteed.
 
 *Component Communication*: Communication between components of the
 same robot is permitted.
-
-*League Adaptability*: Each league may modify the robot communication
-rules to ensure they meet their specific requirements.
 
 ==== Safety and Power Requirements
 
@@ -109,24 +96,6 @@ shared by RCJ after the competition.
 *Content*: Posters should summarize design documents and present the
 robot’s capabilities in an engaging format.
 
-==== Technical Description Video (See League Documentation)
-
-*Content*:
-
-* *Robotic Demonstration*: Show fully functional robot systems to
-highlight technical aspects.
-
-* *Design Process*: Explain design choices and team problem-solving
-approaches.
-
-* *Presentation*: Clear and high-quality, explaining innovative or
-unusual techniques.
-
-* *Innovation & Sustainability*: Highlight new technologies and
-sustainable practices.
-
-*Submission*: Guidelines will specify video length and deadlines per
-league.
 
 ==== Sharing Team Resources
 
@@ -146,26 +115,6 @@ credit the original creators.
 *Learning Priority*: Teams should prioritize learning and not use
 complete solutions from others. Always pay attention to licensing rules.
 
-==== Bill of Materials (BOM)
-
-*Submission*: Teams must submit a BOM listing major components and
-materials used. 
-
-*Details*: The BOM must include:
-
-* Component name/description (e.g., part number).
-
-* Supplier/source of the component (including PCBs/machined
-components).
-
-* Status (new/reused).
-
-* Kit or custom-built.
-
-* Price.
-
-*Template*: A standardized BOM template will be provided with the
-league documentation submissions for the international competition.
 
 === Spirit and Behavior
 
